@@ -1,0 +1,6 @@
+
+<launch>
+  <node name="visual_servoing_node" pkg="visual_servoing" type="visual_servoing_node.py" output="screen"/>
+  <!-- Otros nodos y configuraciones según sea necesario -->
+</launch>
+
